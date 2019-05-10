@@ -1,0 +1,12 @@
+0 silly argv { _: [ 'add' ],
+0 silly argv   scope: 'module-1',
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '3.13.0',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: 'module-0' }
+1 notice cli v3.13.0
+2 verbose rootPath /Users/shenziqiang/Work/Demo/lerna-repo
+3 error module-0: No valid versions available for module-0
+3 error     at pickManifest (/usr/local/lib/node_modules/lerna/node_modules/npm-pick-manifest/index.js:36:11)
+3 error     at fetchPackument.then.packument (/usr/local/lib/node_modules/lerna/node_modules/pacote/lib/fetchers/registry/manifest.js:24:14)
+3 error     at <anonymous>
