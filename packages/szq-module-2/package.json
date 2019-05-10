@@ -1,6 +1,6 @@
 {
   "name": "szq-module-2",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "szq-module-0": "^0.0.1",
-    "szq-module-1": "^0.0.1"
+    "szq-module-0": "^1.0.0",
+    "szq-module-1": "^1.0.0"
   }
 }
